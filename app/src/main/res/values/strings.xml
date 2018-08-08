@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="item_element_text">From Tokyo to Paris, Parents Tell Americans to Chill</string>
+    <string name="middle">This is the middle!</string>
+</resources>
